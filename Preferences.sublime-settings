@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Blackboard (SL).tmTheme",
+	"color_scheme": "Packages/Theme - Vim Blackboard/VimBlackboard.tmtheme",
 	"fade_fold_buttons": false,
 	"highlight_line": true,
 	"ignored_packages":
@@ -20,6 +20,7 @@
 		"AndroidSnippets",
 		"Animate.css Snippets",
 		"Ant Color Scheme",
+		"AppendComma",
 		"Aqueducts",
 		"Aurora Color Scheme",
 		"Auto Close HTML Tags",
@@ -31,6 +32,7 @@
 		"Behave Color Scheme",
 		"Blue Zen Color Scheme",
 		"Blusted Scheme",
+		"Borat Ipsum",
 		"Boron Color Scheme",
 		"BracketGuard",
 		"BracketHighlighter",
@@ -85,7 +87,9 @@
 		"JavaScript Patterns",
 		"QuickRef Command Lookup",
 		"SublimeLinter",
+		"Theme - Augmented Reaction",
+		"Theme - Toxin",
 		"Vintage"
 	],
-	"theme": "Centurion.sublime-theme"
+	"theme": "DefaultPlus Amy.sublime-theme"
 }
