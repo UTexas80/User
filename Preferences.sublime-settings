@@ -1,7 +1,7 @@
 {
 	"color_scheme": "Packages/Theme - Vim Blackboard/VimBlackboard.tmtheme",
 	"fade_fold_buttons": false,
-	"font_size": 9,
+	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[
