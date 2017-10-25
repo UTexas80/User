@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"X3-Alpha Color Scheme"
 	],
 	"installed_packages":
 	[
@@ -188,6 +187,7 @@
 		"HTML Snippets",
 		"HTML5",
 		"IceWorld Color Scheme",
+		"Inline Google Translate",
 		"Inspired GitHub Color Scheme",
 		"Internetstorm Bold Color Scheme",
 		"Invert Current Color Scheme",
@@ -290,6 +290,7 @@
 		"RailsCasts Colour Scheme",
 		"RainbowDrops Inspired - Color Scheme",
 		"Random Everything",
+		"Random Text",
 		"Raybo - Color Scheme",
 		"Red Planet Color Scheme",
 		"Resesif Color Scheme",
@@ -318,6 +319,7 @@
 		"SublimeGit",
 		"sublimelint",
 		"SublimeLinter",
+		"SublimeLinter-annotations",
 		"SublimeLinter-jshint",
 		"SublimeLinter_CatGutterTheme",
 		"SublimeTextGitX",
