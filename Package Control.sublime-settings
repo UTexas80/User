@@ -2,14 +2,12 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"0_package_control_loader"
 	],
 	"installed_packages":
 	[
 		"1337 Color Scheme",
 		"1Self",
 		"3024 Color Scheme",
-		"Abacus",
 		"Acme Color Scheme",
 		"Advanced CSV",
 		"AdvancedNewFile",
@@ -46,6 +44,8 @@
 		"Base16 Color Schemes",
 		"Base16 Eighties Dark Color Scheme",
 		"Behave Color Scheme",
+		"Better JavaScript",
+		"Better RSpec",
 		"BlackBird-ColorScheme",
 		"BlackRain",
 		"Blue Zen Color Scheme",
@@ -185,6 +185,7 @@
 		"Harmonious Color Schemes",
 		"Harper Color Scheme",
 		"Highlighter",
+		"Hipster Ipsum",
 		"Hopscotch Color Scheme",
 		"HTML Boilerplate",
 		"HTML Snippets",
@@ -304,6 +305,7 @@
 		"RegExLink",
 		"Resesif Color Scheme",
 		"Retro Computers Color Schemes",
+		"ReverseCharacters",
 		"Rohingya Dark color scheme",
 		"Ruby Blue Color Scheme",
 		"Sail Color Scheme",
